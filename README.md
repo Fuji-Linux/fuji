@@ -8,3 +8,6 @@ Uses:
 - https://github.com/vinceliuice/WhiteSur-gtk-theme.git
 - https://github.com/vinceliuice/WhiteSur-icon-theme.git
 - 
+
+Inspired from: 
+- [Arch Linux Calamares Installer/ALCI](https://github.com/arch-linux-calamares-installer/alci-iso.git)
