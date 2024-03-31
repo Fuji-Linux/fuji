@@ -16,13 +16,13 @@ meta-data
 network-config
 man/version.rst
 
-# Taken from the github/gitignore for vscode:
+# Taken from the github/gitignore for vscode, but there is no need for any vscode files at all, so I have removed the other things:
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+#!.vscode/settings.json
+#!.vscode/tasks.json
+#!.vscode/launch.json
+#!.vscode/extensions.json
+#!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
