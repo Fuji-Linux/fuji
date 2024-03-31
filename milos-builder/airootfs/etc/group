@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:milos
+wheel:x:10:milos
+uucp:x:14:milos
+milos:x:1000:

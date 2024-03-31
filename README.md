@@ -1,7 +1,8 @@
 # MILOS
 
-- My attempt to make arch linux with a classic MacOS look
-- Using Calamares for an installer, with the classic WhiteSur-gtk-theme
+- My attempt to make an Arch-based distro with a classic MacOS WhiteSur look
+- Using Calamares for an installer, with the classic WhiteSur-gtk-theme (both TBD)
+- Has a liveboot feature
 
 Uses:
 - Calamares (TBD)
