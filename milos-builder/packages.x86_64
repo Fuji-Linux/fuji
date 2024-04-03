@@ -33,6 +33,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+floorp
 foot-terminfo
 fsarchiver
 gdm
@@ -151,4 +152,5 @@ xfsprogs
 xl2tpd
 xorg
 xorg-drivers
+yay
 zsh

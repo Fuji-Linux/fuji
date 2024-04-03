@@ -2,7 +2,8 @@
 
 - My attempt to make an Arch-based distro with a classic MacOS WhiteSur look
 - Using Calamares for an installer, with the classic WhiteSur-gtk-theme (both TBD)
-- Has a liveboot feature
+- Has a liveboot feature (added on 04/02/2024)
+- The main pacman repo can be found in 
 
 Uses:
 - Calamares (TBD)
