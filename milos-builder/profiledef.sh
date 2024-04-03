@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="milos"
-iso_label="MILOS_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="MILOS <https://github.com/MacOS-In-Linux>"
-iso_application="MILOS Live"
+iso_name="fuji"
+iso_label="Fuji_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_publisher="Fuji <https://github.com/Fuji-Linux>"
+iso_application="Fuji Linux"
 iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')

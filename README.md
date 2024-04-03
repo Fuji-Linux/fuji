@@ -1,9 +1,11 @@
-# MILOS
+# Fuji Linux
+
+- Named after the Fuji Apple (the fruit & the company)
 
 - My attempt to make an Arch-based distro with a classic MacOS WhiteSur look
 - Using Calamares for an installer, with the classic WhiteSur-gtk-theme (both TBD)
 - Has a liveboot feature (added on 04/02/2024)
-- The main pacman repo can be found in 
+- The main pacman repo can be found in the 'fuji_repo' github repository
 
 Uses:
 - Calamares (TBD)
@@ -12,6 +14,6 @@ Uses:
 - 
 
 Inspired from: 
-- [Arch Linux Calamares Installer/ALCI](https://github.com/arch-linux-calamares-installer/alci-iso.git) (TBD)
+- [Arch Linux Calamares Installer/ALCI](https://github.com/arch-linux-calamares-installer/alci-iso.git) (TBD, will be used for the calamares installer)
 - [Arch Linux GNOME Live ISO](https://github.com/n0raitor/archlinux-iso/tree/main)
     - Mainly used for the gnome live boot, which was a tad bit of a hassle to setup 
