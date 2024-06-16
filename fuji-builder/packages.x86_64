@@ -33,7 +33,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-floorp
+floorp-bin
 foot-terminfo
 fsarchiver
 gdm
@@ -42,6 +42,9 @@ gnome-control-center
 gnome-session
 gnome-settings-daemon
 gnome-shell
+gnome-shell-extension-blur-my-shell
+gnome-shell-extension-dash-to-dock
+gnome-shell-extension-rounded-window-corners
 gnome-text-editor
 gnome-tweaks
 gnu-netcat
@@ -92,7 +95,6 @@ network-manager-applet
 networkmanager
 nfs-utils
 nilfs-utils
-nmap
 ntfs-3g
 nvme-cli
 open-iscsi
@@ -141,7 +143,6 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
-wezterm-terminfo
 wireless_tools
 wireless-regdb
 wpa_supplicant
